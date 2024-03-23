@@ -1,3 +1,3 @@
 # ChainsawManPochita.GitHub.io
 
-msgbox("hello worl")
+msgbox("hello world")
